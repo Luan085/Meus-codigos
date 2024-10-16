@@ -91,6 +91,6 @@ resultado=ctk.CTkLabel(janela,
                        text='',
                        font= ('verdana', 20, 'bold'),
                        text_color='yellow',)
-resultado.pack(pady=10)
+resultado.pack(pady=80)
 
 janela.mainloop()
